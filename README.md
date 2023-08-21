@@ -1,4 +1,2 @@
 # myportfolio
-# git test 
-# version control 
-# heyy
+some secription
